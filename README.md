@@ -4,157 +4,200 @@
 
 <br><br>
 
-# Abderrahmane Tarek MEGHARI
+<img src="https://meghari-abderrahamane-tarek.netlify.app/assets/images/profile.jpg" width="132" height="132" style="border-radius:50%;" alt="Abderrahmane Tarek MEGHARI">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=620&lines=AI+%26+Data+Science+%C2%B7+Full-Stack+Engineering;Secure%2C+practical%2C+data-driven+software." alt="Typing SVG" />
+<br><br>
 
-<sub>Bachelor Informatique · ECE Paris · AI &amp; Data Science specialization</sub>
+# ABDERRAHMANE TAREK MEGHARI
+
+<img src="https://img.shields.io/badge/AI_%26_DATA_SCIENCE-8B5CF6?style=flat-square&labelColor=05070B" height="22">&nbsp;<img src="https://img.shields.io/badge/FULL--STACK_ENGINEERING-00D9FF?style=flat-square&labelColor=05070B" height="22">&nbsp;<img src="https://img.shields.io/badge/SECURITY-10B981?style=flat-square&labelColor=05070B" height="22">
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+practical+software+at+the+intersection;of+data%2C+algorithms+and+secure+engineering." alt="Typing SVG" />
+
+<br>
+
+<sub><i>Bachelor Informatique · ECE Paris · AI &amp; Data Science specialization</i></sub>
 
 <br><br>
 
 <a href="https://meghari-abderrahamane-tarek.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0B1120" height="34">
+<img src="https://img.shields.io/badge/Portfolio-05070B?style=for-the-badge&logo=netlify&logoColor=00D9FF&labelColor=05070B" height="34">
 </a>
 <a href="https://www.linkedin.com/in/abderrahmane-tarek-meghari/">
-<img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0B1120" height="34">
+<img src="https://img.shields.io/badge/LinkedIn-05070B?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=05070B" height="34">
 </a>
 <a href="https://github.com/tarek200614">
-<img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=0B1120" height="34">
+<img src="https://img.shields.io/badge/GitHub-05070B?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=05070B" height="34">
 </a>
 <a href="mailto:meghariabderrhmanetarek@gmail.com">
-<img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0B1120" height="34">
+<img src="https://img.shields.io/badge/Email-05070B?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=05070B" height="34">
 </a>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python,php,js,mysql,c,html,css,git" height="36">
+<img src="https://skillicons.dev/icons?i=python,php,js,mysql,c,html,css,git" height="32">
 
 </div>
 
 <br><br>
 
-<table width="100%">
-<tr>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/AI%20%2F%20DATA-8B5CF6?style=flat-square&labelColor=1E1B33" height="22"><br><br>
-Python · NumPy · pandas<br><sub>scikit-learn · matplotlib</sub>
-</td>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/SOFTWARE-38BDF8?style=flat-square&labelColor=0B1E33" height="22"><br><br>
-JavaScript · PHP · SQL<br><sub>HTML5 / CSS3</sub>
-</td>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/SECURITY-10B981?style=flat-square&labelColor=0B2A1E" height="22"><br><br>
-bcrypt · validation<br><sub>prepared statements · AST</sub>
-</td>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/CS-F59E0B?style=flat-square&labelColor=2E1E0B" height="22"><br><br>
-Algorithms · Graphs<br><sub>Data structures · Big-O</sub>
-</td>
-</tr>
-</table>
-
-<br>
-
-Bachelor Informatique student at **ECE Paris**, specializing in AI &amp; Data Science, with a mathematics foundation from a Technical Mathematics Baccalaureate (Highest Honors, 18.05/20 — 20/20 in Mathematics, Physics and Electrical Engineering) and a year of Pure &amp; Applied Mathematics at the National Higher School of Mathematics in Algiers.
-
-I build full-stack applications, algorithmic tools and small SaaS-style projects — applying modular architecture and secure-by-default practices by habit: bcrypt hashing, prepared statements, AST-based safe expression evaluation instead of `eval()`. Available immediately for an internship in Software Engineering, Data Science or Full-Stack development in Île-de-France.
-
-<br>
-
 <div align="center">
-
 <sub>01</sub>
+
 ### PROFILE
-<img src="https://img.shields.io/badge/-00D9FF?style=flat-square" width="60" height="3">
-
+<img src="https://img.shields.io/badge/-00D9FF?style=flat-square" width="64" height="3">
 </div>
-<br>
-
-<table width="100%">
-<tr>
-<td width="25%" valign="top">
-
-**EDUCATION**
-<br>ECE Paris
-<br><sub>Bachelor Informatique</sub>
-
-</td>
-<td width="25%" valign="top">
-
-**SPECIALIZATION**
-<br>AI &amp; Data Science
-<br><sub>Applied Mathematics</sub>
-
-</td>
-<td width="25%" valign="top">
-
-**BUILDING**
-<br>Full-Stack Software
-<br><sub>Python · PHP · JS</sub>
-
-</td>
-<td width="25%" valign="top">
-
-**ENGINEERING**
-<br>Security-aware
-<br><sub>Tested · documented</sub>
-
-</td>
-</tr>
-</table>
 
 <br>
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/BUILDING-05070B?style=flat-square&labelColor=05070B&color=00D9FF" height="20">
+<br><br>
+<b>Full-Stack Software</b>
+<br>
+<sub>Python · PHP · JavaScript</sub>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/FOCUS-05070B?style=flat-square&labelColor=05070B&color=8B5CF6" height="20">
+<br><br>
+<b>AI &amp; Data Science</b>
+<br>
+<sub>Applied Mathematics</sub>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ENGINEERING-05070B?style=flat-square&labelColor=05070B&color=10B981" height="20">
+<br><br>
+<b>Security-aware</b>
+<br>
+<sub>Tested · Documented</sub>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/EDUCATION-05070B?style=flat-square&labelColor=05070B&color=F59E0B" height="20">
+<br><br>
+<b>ECE Paris</b>
+<br>
+<sub>Bachelor Informatique</sub>
+
+</div>
+
+<br><br>
+
+<div align="center"><sub><b>POSITIONING</b></sub></div>
+
+> Full-stack junior developer building practical, data-driven software with a security-aware, mathematics-heavy foundation.
+
+<div align="center"><sub><b>BACKGROUND</b></sub></div>
+
+Bachelor Informatique student at **ECE Paris**, specializing in AI &amp; Data Science, with a mathematics foundation from a Technical Mathematics Baccalaureate — **Highest Honors, 18.05/20** (20/20 in Mathematics, Physics and Electrical Engineering) — and a year of Pure &amp; Applied Mathematics at the National Higher School of Mathematics in Algiers. I build full-stack applications, algorithmic tools and small SaaS-style projects, applying modular architecture and secure-by-default practices by habit: **bcrypt** hashing, **prepared statements**, and **AST-based safe expression evaluation** instead of `eval()`.
+
+<div align="center"><sub><b>CURRENT AVAILABILITY</b></sub></div>
+
+Available immediately for an internship in **Software Engineering**, **Data Science** or **Full-Stack development** in Île-de-France.
+
+<br>
+
+<div align="center">
 <sub>02</sub>
-### WHAT I LIKE TO BUILD
-<img src="https://img.shields.io/badge/-38BDF8?style=flat-square" width="60" height="3">
 
+### CORE SPECIALIZATIONS
+<img src="https://img.shields.io/badge/-8B5CF6?style=flat-square" width="64" height="3">
 </div>
-<br>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**Data-driven applications**
-<br><sub>Practical software powered by structured data and analytical thinking.</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**Secure web applications**
-<br><sub>Authentication, validation, database security and defensive engineering.</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Algorithmic tools**
-<br><sub>Algorithms, data structures, graph traversal and computational thinking.</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**Useful software**
-<br><sub>Projects designed around real workflows rather than technology for its own sake.</sub>
-
-</td>
-</tr>
-</table>
 
 <br>
 
 <div align="center">
 
-<sub>03</sub>
-### PROJECT SHOWCASE
-<img src="https://img.shields.io/badge/-8B5CF6?style=flat-square" width="60" height="3">
+<img src="https://img.shields.io/badge/●-8B5CF6?style=flat-square&labelColor=05070B&color=8B5CF6" height="14">&nbsp;<b>AI &amp; DATA</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python" height="30">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/NumPy-1E1B33?style=flat-square&logoColor=8B5CF6" height="24">&nbsp;
+<img src="https://img.shields.io/badge/pandas-1E1B33?style=flat-square&logoColor=8B5CF6" height="24">&nbsp;
+<img src="https://img.shields.io/badge/scikit--learn-1E1B33?style=flat-square&logoColor=8B5CF6" height="24">&nbsp;
+<img src="https://img.shields.io/badge/matplotlib-1E1B33?style=flat-square&logoColor=8B5CF6" height="24">&nbsp;
+<img src="https://img.shields.io/badge/MATLAB-1E1B33?style=flat-square&logoColor=8B5CF6" height="24">
+
+<br><br>
+<sub>Data analysis · exploratory statistics · ML foundations</sub>
 
 </div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/●-00D9FF?style=flat-square&labelColor=05070B&color=00D9FF" height="14">&nbsp;<b>FULL-STACK</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=js,php,html,css,mysql" height="30">
+
+<br><br>
+<sub>Responsive frontend · procedural PHP backend · relational data modelling</sub>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/●-10B981?style=flat-square&labelColor=05070B&color=10B981" height="14">&nbsp;<b>SECURITY</b>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/bcrypt-0B2A1E?style=flat-square&logoColor=10B981" height="24">&nbsp;
+<img src="https://img.shields.io/badge/SQLi_Prevention-0B2A1E?style=flat-square&logoColor=10B981" height="24">&nbsp;
+<img src="https://img.shields.io/badge/XSS_Prevention-0B2A1E?style=flat-square&logoColor=10B981" height="24">&nbsp;
+<img src="https://img.shields.io/badge/AST_Safe_Eval-0B2A1E?style=flat-square&logoColor=10B981" height="24">
+
+<br><br>
+<sub>Secure-by-default habits, applied across every project</sub>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/●-F59E0B?style=flat-square&labelColor=05070B&color=F59E0B" height="14">&nbsp;<b>COMPUTER SCIENCE</b>
+
+<br><br>
+
+<sub>Data structures</sub>&nbsp;·&nbsp;<sub>Graphs (BFS/DFS/Dijkstra)</sub>&nbsp;·&nbsp;<sub>Recursion</sub>&nbsp;·&nbsp;<sub>Big-O analysis</sub>
+
+<br><br>
+<sub>Fundamentals-first problem solving</sub>
+
+</div>
+
+<br>
+
+<div align="center">
+<sub>03</sub>
+
+### PROJECT SHOWCASE
+<img src="https://img.shields.io/badge/-38BDF8?style=flat-square" width="64" height="3">
+</div>
+
 <br>
 
 <div align="center"><sub><b>FEATURED</b></sub></div>
@@ -234,12 +277,14 @@ Online exam portal with a client-side anti-cheat engine.
 </td>
 <td width="50%" valign="top">
 
-<img width="1672" height="941" alt="python calculator" src="https://github.com/user-attachments/assets/00834a73-09d5-429c-8eee-a38a17b4dac4" />
+<img width="100%" alt="python calculator" src="https://github.com/user-attachments/assets/00834a73-09d5-429c-8eee-a38a17b4dac4" />
 
 **Python Calculator** — Secure Desktop Calculator
 <br><sub>Personal · Python 3.11+, Tkinter</sub>
 
 Desktop calculator with the GUI cleanly separated from the calc engine.
+
+<img src="https://skillicons.dev/icons?i=python" height="24">
 
 - No `eval()` — parsed via `ast.parse()`
 - 38 automated `unittest` tests
@@ -258,7 +303,7 @@ Desktop calculator with the GUI cleanly separated from the calc engine.
 
 Documented collection of core CS fundamentals and small OOP exercises.
 
-<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/f411b778-448d-4965-8940-49124ed74001" />
+<img src="https://skillicons.dev/icons?i=python" height="24">
 
 - Hash table, BFS/DFS, Dijkstra shortest path
 - Recursive algorithms, geometry &amp; budget OOP exercises
@@ -318,33 +363,33 @@ Comparative study of data monetization models across Google, Apple, Meta, Amazon
 <br>
 
 <div align="center">
-
 <sub>04</sub>
-### TECH STACK
-<img src="https://img.shields.io/badge/-10B981?style=flat-square" width="60" height="3">
 
+### TECH STACK
+<img src="https://img.shields.io/badge/-10B981?style=flat-square" width="64" height="3">
 </div>
+
 <br>
 
 <div align="center">
 
 <sub><b>LANGUAGES</b></sub><br>
-<img src="https://skillicons.dev/icons?i=python,c,php,js,html,css" height="40"><br><br>
+<img src="https://skillicons.dev/icons?i=python,c,php,js,html,css" height="38"><br><br>
 
 <sub><b>AI / DATA</b></sub><br>
-<img src="https://skillicons.dev/icons?i=python" height="36">&nbsp;
-<img src="https://img.shields.io/badge/NumPy-1E1B33?style=flat-square&logo=numpy&logoColor=8B5CF6" height="24">&nbsp;
-<img src="https://img.shields.io/badge/pandas-1E1B33?style=flat-square&logo=pandas&logoColor=8B5CF6" height="24">&nbsp;
-<img src="https://img.shields.io/badge/scikit--learn-1E1B33?style=flat-square&logo=scikitlearn&logoColor=8B5CF6" height="24">&nbsp;
+<img src="https://skillicons.dev/icons?i=python" height="34">&nbsp;
+<img src="https://img.shields.io/badge/NumPy-1E1B33?style=flat-square&logoColor=8B5CF6" height="24">&nbsp;
+<img src="https://img.shields.io/badge/pandas-1E1B33?style=flat-square&logoColor=8B5CF6" height="24">&nbsp;
+<img src="https://img.shields.io/badge/scikit--learn-1E1B33?style=flat-square&logoColor=8B5CF6" height="24">&nbsp;
 <img src="https://img.shields.io/badge/matplotlib-1E1B33?style=flat-square&logoColor=8B5CF6" height="24">&nbsp;
-<img src="https://img.shields.io/badge/MATLAB-1E1B33?style=flat-square&logo=mathworks&logoColor=8B5CF6" height="24"><br><br>
+<img src="https://img.shields.io/badge/MATLAB-1E1B33?style=flat-square&logoColor=8B5CF6" height="24"><br><br>
 
 <sub><b>WEB / BACKEND</b></sub><br>
-<img src="https://skillicons.dev/icons?i=php,js,html,css" height="36">&nbsp;
+<img src="https://skillicons.dev/icons?i=php,js,html,css" height="34">&nbsp;
 <img src="https://img.shields.io/badge/PDO-0B1E33?style=flat-square&logoColor=38BDF8" height="24"><br><br>
 
 <sub><b>DATABASES</b></sub><br>
-<img src="https://skillicons.dev/icons?i=mysql" height="36"><br><br>
+<img src="https://skillicons.dev/icons?i=mysql" height="34"><br><br>
 
 <sub><b>SECURITY</b></sub><br>
 <img src="https://img.shields.io/badge/bcrypt-0B2A1E?style=flat-square&logoColor=10B981" height="24">&nbsp;
@@ -353,165 +398,157 @@ Comparative study of data monetization models across Google, Apple, Meta, Amazon
 <img src="https://img.shields.io/badge/AST_Safe_Eval-0B2A1E?style=flat-square&logoColor=10B981" height="24"><br><br>
 
 <sub><b>TOOLS</b></sub><br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="36">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="34">
 
 </div>
 
 <br>
 
 <div align="center">
-
 <sub>05</sub>
+
 ### ENGINEERING APPROACH
-<img src="https://img.shields.io/badge/-F59E0B?style=flat-square" width="60" height="3">
-
+<img src="https://img.shields.io/badge/-F59E0B?style=flat-square" width="64" height="3">
 </div>
-<br>
-
-<table width="100%">
-<tr>
-<td width="16.6%" align="center"><img src="https://img.shields.io/badge/01-00D9FF?style=for-the-badge&labelColor=0B1120" height="24"><br><sub><b>UNDERSTAND</b></sub></td>
-<td width="1%" align="center">→</td>
-<td width="16.6%" align="center"><img src="https://img.shields.io/badge/02-38BDF8?style=for-the-badge&labelColor=0B1120" height="24"><br><sub><b>DESIGN</b></sub></td>
-<td width="1%" align="center">→</td>
-<td width="16.6%" align="center"><img src="https://img.shields.io/badge/03-8B5CF6?style=for-the-badge&labelColor=0B1120" height="24"><br><sub><b>IMPLEMENT</b></sub></td>
-<td width="1%" align="center">→</td>
-<td width="16.6%" align="center"><img src="https://img.shields.io/badge/04-10B981?style=for-the-badge&labelColor=0B1120" height="24"><br><sub><b>SECURE</b></sub></td>
-<td width="1%" align="center">→</td>
-<td width="16.6%" align="center"><img src="https://img.shields.io/badge/05-F59E0B?style=for-the-badge&labelColor=0B1120" height="24"><br><sub><b>TEST</b></sub></td>
-<td width="1%" align="center">→</td>
-<td width="16.6%" align="center"><img src="https://img.shields.io/badge/06-EC4899?style=for-the-badge&labelColor=0B1120" height="24"><br><sub><b>DOCUMENT</b></sub></td>
-</tr>
-</table>
-
-<div align="center"><sub>Modular architecture · security-aware by default · automated testing · structured Git workflows · responsive interfaces</sub></div>
 
 <br>
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/01_UNDERSTAND-05070B?style=for-the-badge&labelColor=05070B&color=00D9FF" height="28">
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/02_DESIGN-05070B?style=for-the-badge&labelColor=05070B&color=38BDF8" height="28">
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/03_IMPLEMENT-05070B?style=for-the-badge&labelColor=05070B&color=8B5CF6" height="28">
+<br><br>
+<img src="https://img.shields.io/badge/04_SECURE-05070B?style=for-the-badge&labelColor=05070B&color=10B981" height="28">
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/05_TEST-05070B?style=for-the-badge&labelColor=05070B&color=F59E0B" height="28">
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/06_DOCUMENT-05070B?style=for-the-badge&labelColor=05070B&color=EC4899" height="28">
+
+<br><br>
+
+<sub>Modular architecture · security-aware by default · automated testing · structured Git workflows · accessible interfaces</sub>
+
+</div>
+
+<br>
+
+<div align="center">
 <sub>06</sub>
+
 ### EDUCATION
-<img src="https://img.shields.io/badge/-EC4899?style=flat-square" width="60" height="3">
-
+<img src="https://img.shields.io/badge/-EC4899?style=flat-square" width="64" height="3">
 </div>
+
 <br>
 
-<table width="100%">
-<tr>
-<td width="18%" valign="top"><sub><b>Oct 2025 – Dec 2028</b></sub></td>
-<td width="82%" valign="top">
+> **2025 — PRESENT**
+> #### ECE Paris
+> Bachelor Informatique — AI &amp; Data Science specialization
+> <br><sub>Programming (Python, C, PHP, SQL, JavaScript) · Algorithms · Databases · Networks · Embedded Systems · AI · Data Science</sub>
 
-**ECE Paris** — École Centrale d'Électronique, Paris
-<br>Bachelor Informatique — AI &amp; Data Science specialization
-<br><sub>Programming (Python, C, PHP, SQL, JavaScript) · Algorithms · Databases · Networks · Embedded Systems · AI · Data Science</sub>
+> **2024 — 2025**
+> #### National Higher School of Mathematics — Algiers
+> Licence 1 — Pure &amp; Applied Mathematics
+> <br><sub>Analysis · Linear Algebra · Probability · Statistics</sub>
 
-</td>
-</tr>
-<tr>
-<td width="18%" valign="top"><sub><b>2024 – 2025</b></sub></td>
-<td width="82%" valign="top">
-
-**National Higher School of Mathematics** — Algiers
-<br>Licence 1 — Pure &amp; Applied Mathematics
-<br><sub>Analysis · Linear Algebra · Probability · Statistics</sub>
-
-</td>
-</tr>
-<tr>
-<td width="18%" valign="top"><sub><b>Jun 2024</b></sub></td>
-<td width="82%" valign="top">
-
-**Zoubida Ould Kablia High School** — Algiers
-<br>Baccalaureate — Technical Mathematics, Electrical Engineering track
-<br><sub>Highest Honors — 18.05 / 20</sub>
-
-</td>
-</tr>
-</table>
+> **2024**
+> #### Zoubida Ould Kablia High School — Algiers
+> Baccalaureate — Technical Mathematics, Electrical Engineering track
+> <br><sub>Highest Honors</sub>
 
 <br>
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="220">
-<img src="https://img.shields.io/badge/18.05%20%2F%2020-F59E0B?style=for-the-badge&labelColor=0B1120" height="32">
-<br><sub><b>HIGHEST HONORS</b></sub>
-</td>
-<td align="center" width="260">
+<img src="https://img.shields.io/badge/18.05%20%2F%2020-05070B?style=for-the-badge&labelColor=05070B&color=F59E0B" height="34">
+<br><br>
+<b>HIGHEST HONORS</b>
+<br><br>
 <sub><b>20/20</b> Mathematics &nbsp;·&nbsp; <b>20/20</b> Physics &nbsp;·&nbsp; <b>20/20</b> Electrical Engineering</sub>
-</td>
-</tr>
-</table>
 
 </div>
 
 <br>
 
 <div align="center">
-
 <sub>07</sub>
-### CERTIFICATIONS
 
+### CERTIFICATIONS
+<img src="https://img.shields.io/badge/-00D9FF?style=flat-square" width="64" height="3">
 </div>
+
 <br>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
+
+<img src="https://img.shields.io/badge/●-8B5CF6?style=flat-square&labelColor=05070B&color=8B5CF6" height="14">
+<br><br>
 
 **Tech For All — AI / N1 Code Certificate**
 <br><sub>DataScientest.com × ECE Paris</sub>
 <br><sub>AI fundamentals · Python data manipulation</sub>
 
-</td>
-<td width="50%" valign="top">
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/●-00D9FF?style=flat-square&labelColor=05070B&color=00D9FF" height="14">
+<br><br>
 
 **Algorithmic Programming Workshops**
 <br><sub>ECE Paris</sub>
 <br><sub>Problem solving · data structures · algorithmic efficiency</sub>
 
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
 <div align="center">
-
 <sub>08</sub>
-### GITHUB ACTIVITY
 
+### GITHUB ACTIVITY
+<img src="https://img.shields.io/badge/-8B5CF6?style=flat-square" width="64" height="3">
 </div>
+
 <br>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=tarek200614&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=38BDF8&text_color=CBD5E1&count_private=true" height="160" alt="tarek200614's GitHub stats">
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarek200614&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=CBD5E1&langs_count=8" height="160" alt="tarek200614's most used languages">
 </div>
 
 <br>
 
 <div align="center">
-
 <sub>09</sub>
-### CURRENT FOCUS
 
+### CURRENT FOCUS
+<img src="https://img.shields.io/badge/-10B981?style=flat-square" width="64" height="3">
 </div>
+
 <br>
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><img src="https://img.shields.io/badge/01-8B5CF6?style=for-the-badge&labelColor=1E1B33" height="24"><br><b>AI &amp; DATA</b><br><sub>Machine Learning</sub></td>
-<td width="25%" align="center"><img src="https://img.shields.io/badge/02-38BDF8?style=for-the-badge&labelColor=0B1E33" height="24"><br><b>SOFTWARE</b><br><sub>Full-Stack</sub></td>
-<td width="25%" align="center"><img src="https://img.shields.io/badge/03-10B981?style=for-the-badge&labelColor=0B2A1E" height="24"><br><b>SECURITY</b><br><sub>Secure coding</sub></td>
-<td width="25%" align="center"><img src="https://img.shields.io/badge/04-F59E0B?style=for-the-badge&labelColor=2E1E0B" height="24"><br><b>CS</b><br><sub>Algorithms</sub></td>
-</tr>
-</table>
+<div align="center">
 
-<div align="center"><sub><b>Open to internship opportunities</b> in Software Engineering, Data Science or Full-Stack development — available immediately, Île-de-France.</sub></div>
+<img src="https://img.shields.io/badge/01-05070B?style=flat-square&labelColor=05070B&color=8B5CF6" height="20">&nbsp;<b>AI &amp; DATA</b> — <sub>Machine Learning</sub>
+<br><br>
+<img src="https://img.shields.io/badge/02-05070B?style=flat-square&labelColor=05070B&color=00D9FF" height="20">&nbsp;<b>SOFTWARE</b> — <sub>Full-Stack Engineering</sub>
+<br><br>
+<img src="https://img.shields.io/badge/03-05070B?style=flat-square&labelColor=05070B&color=10B981" height="20">&nbsp;<b>SECURITY</b> — <sub>Secure Coding</sub>
+<br><br>
+<img src="https://img.shields.io/badge/04-05070B?style=flat-square&labelColor=05070B&color=F59E0B" height="20">&nbsp;<b>COMPUTER SCIENCE</b> — <sub>Algorithms</sub>
+
+<br><br>
+
+<b>Open to internship opportunities</b> in Software Engineering, Data Science or Full-Stack development — available immediately, Île-de-France.
+
+</div>
 
 <br>
 
@@ -534,17 +571,16 @@ Comparative study of data monetization models across Google, Apple, Meta, Amazon
 <br><br>
 
 <a href="https://meghari-abderrahamane-tarek.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0B1120" height="34">
+<img src="https://img.shields.io/badge/Portfolio-05070B?style=for-the-badge&logo=netlify&logoColor=00D9FF&labelColor=05070B" height="34">
 </a>
 <a href="https://www.linkedin.com/in/abderrahmane-tarek-meghari/">
-<img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0B1120" height="34">
+<img src="https://img.shields.io/badge/LinkedIn-05070B?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=05070B" height="34">
 </a>
 <a href="https://github.com/tarek200614">
-<img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=0B1120" height="34">
+<img src="https://img.shields.io/badge/GitHub-05070B?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=05070B" height="34">
 </a>
 <a href="mailto:meghariabderrhmanetarek@gmail.com">
-<img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0B1120" height="34">
+<img src="https://img.shields.io/badge/Email-05070B?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=05070B" height="34">
 </a>
 
 </div>
-
