@@ -258,7 +258,7 @@ Desktop calculator with the GUI cleanly separated from the calc engine.
 
 Documented collection of core CS fundamentals and small OOP exercises.
 
-<img src="https://skillicons.dev/icons?i=python" height="24">
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/f411b778-448d-4965-8940-49124ed74001" />
 
 - Hash table, BFS/DFS, Dijkstra shortest path
 - Recursive algorithms, geometry &amp; budget OOP exercises
