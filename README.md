@@ -85,7 +85,7 @@ Building practical software at the intersection of data, algorithms and secure e
 
 <br>
 
-Bachelor Informatique student at **ECE Paris**, specializing in AI &amp; Data Science, with a mathematical foundation from a Technical Mathematics Baccalaureate (Highest Honors, 18.05/20) and a year of Pure &amp; Applied Mathematics in Algiers. I build full-stack applications, algorithmic tools and small SaaS-style projects, consistently applying modular architecture and secure-by-default practices — bcrypt hashing, prepared statements, safe expression evaluation instead of `eval()`.
+Bachelor Informatique student at **ECE Paris**, specializing in AI &amp; Data Science, with a mathematical foundation from a Technical Mathematics Baccalaureate (Highest Honors, 18.05/20 — 20/20 in Mathematics, Physics and Electrical Engineering) and a year of Pure &amp; Applied Mathematics at the National Higher School of Mathematics in Algiers. I build full-stack applications, algorithmic tools and small SaaS-style projects, consistently applying modular architecture and secure-by-default practices — bcrypt hashing, prepared statements, safe expression evaluation instead of `eval()`. Currently available immediately for an internship in Software Engineering, Data Science or Full-Stack development in Île-de-France.
 
 <br>
 
@@ -107,7 +107,7 @@ Bachelor Informatique student at **ECE Paris**, specializing in AI &amp; Data Sc
 <br>NumPy
 <br>pandas
 <br>scikit-learn
-<br>matplotlib
+<br>matplotlib · MATLAB
 
 </div>
 </td>
@@ -116,11 +116,11 @@ Bachelor Informatique student at **ECE Paris**, specializing in AI &amp; Data Sc
 
 **💻 FULL-STACK**
 <br><sub>─────────────</sub>
-<br>JavaScript
+<br>JavaScript (ES6+)
 <br>PHP 8
-<br>MySQL
+<br>MySQL / PDO
 <br>HTML5 / CSS3
-<br>REST-style APIs
+<br>LocalStorage &amp; APIs
 
 </div>
 </td>
@@ -144,7 +144,7 @@ Bachelor Informatique student at **ECE Paris**, specializing in AI &amp; Data Sc
 <br><sub>─────────────</sub>
 <br>Algorithms
 <br>Data structures
-<br>Graphs (BFS/DFS)
+<br>Graphs (BFS/DFS/Dijkstra)
 <br>Big-O analysis
 <br>OOP
 
@@ -172,7 +172,7 @@ Bachelor Informatique student at **ECE Paris**, specializing in AI &amp; Data Sc
 Zero-dependency SaaS-style task manager with a Kanban board and live dashboard analytics.
 
 **Highlights**
-- Native drag &amp; drop Kanban
+- Native drag &amp; drop Kanban board
 - Hand-built SVG dashboard charts
 - Calendar + table views, multi-criteria filters
 - `Ctrl+K` command palette
@@ -189,14 +189,14 @@ Zero-dependency SaaS-style task manager with a Kanban board and live dashboard a
 ### 🛒 LeBonCoin Clone
 <sub>Pair project, ECE Paris · PHP 8, MySQL, PDO · Mar–Apr 2026</sub>
 
-Full-stack C2C marketplace spanning 15+ PHP pages.
+Full-stack C2C classifieds marketplace spanning 15+ PHP pages.
 
 **Highlights**
 - bcrypt auth with PHP sessions
 - 5-table relational schema, foreign keys
 - Prepared PDO queries throughout
 - Sanitized image uploads
-- Private messaging &amp; favorites
+- Private messaging &amp; favorites management
 
 <p>
 <a href="https://demo-green-phi-88.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-00D9FF?style=for-the-badge&logoColor=white&labelColor=00D9FF" height="30"></a>
@@ -212,12 +212,12 @@ Full-stack C2C marketplace spanning 15+ PHP pages.
 ### 🛡️ QCM Anti-Cheat
 <sub>Team project, ECE Paris · PHP 8, MySQL, JS · Apr 2026</sub>
 
-Secure exam platform with a client-side anti-cheat engine.
+Secure online exam portal with a client-side anti-cheat engine.
 
 **Highlights**
 - Role-based auth (admin / user)
-- Randomized questions, auto-scoring
-- Tab-switch, focus-loss &amp; fullscreen-exit detection
+- Randomized questions, automatic scoring
+- Tab-switch, blur &amp; fullscreen-exit detection
 - 9 blocked keyboard shortcuts
 - Server-side timestamp synchronization
 
@@ -232,13 +232,13 @@ Secure exam platform with a client-side anti-cheat engine.
 ### 🐍 Python Calculator
 <sub>Personal · Python 3.11+, Tkinter, ast, unittest</sub>
 
-Desktop calculator with the GUI cleanly separated from the calc engine.
+Desktop calculator with the GUI cleanly separated from the calculation engine.
 
 **Highlights**
-- No `eval()` — parsed via `ast.parse()`
+- No `eval()` — expressions parsed via `ast.parse()`
 - Whitelisted arithmetic operators
 - Calculation history, full keyboard support
-- Robust error handling (div-by-zero, invalid expr.)
+- Robust error handling (div-by-zero, invalid expressions)
 - 38 automated `unittest` tests
 
 <p>
@@ -252,16 +252,16 @@ Desktop calculator with the GUI cleanly separated from the calc engine.
 <td width="50%" valign="top">
 
 ### 🧠 Algorithms &amp; Data Structures
-<sub>Personal · Python 3</sub>
+<sub>Personal · Python 3 · Jun 2026</sub>
 
-Documented collection of core CS fundamentals.
+Documented collection of core CS fundamentals and small OOP exercises.
 
 **Highlights**
-- Hash table with collision handling
-- BFS / DFS + Dijkstra shortest path
-- Sorting + recursive algorithms (Hanoi, backtracking, Fibonacci)
-- OOP exercises: geometry calculator, budget tracker
-- Complexity analysis, type hints, docstrings
+- Hash table with custom hashing &amp; collision handling
+- BFS / DFS graph traversal + Dijkstra shortest path
+- Recursive algorithms (Tower of Hanoi, backtracking, Fibonacci)
+- OOP exercises: geometry calculator, budget tracker, config manager
+- Big-O complexity analysis, type hints, docstrings
 
 <p>
 <a href="https://github.com/tarek200614/python-algorithms-data-structures"><img src="https://img.shields.io/badge/SOURCE_CODE-1E293B?style=for-the-badge&logoColor=white&labelColor=1E293B" height="30"></a>
@@ -273,14 +273,14 @@ Documented collection of core CS fundamentals.
 ### 🎮 Tic Tac Toe — C
 <sub>Team project, ECE Paris · C · Nov–Dec 2025</sub>
 
-Modular terminal game built in pure C.
+Modular terminal game with persistent move history, built in pure C.
 
 **Highlights**
 - `struct Joueur` data model
 - 10+ modular functions
 - Victory detection across 8 combinations
-- Persistent move history to file
-- `FILE*`, `fprintf`, `fgets`
+- Move history logged to file (`FILE*`, `fprintf`, `fgets`)
+- Input buffer sanitization
 
 <p>
 <a href="https://github.com/tarek200614/tic-tac-toe-c"><img src="https://img.shields.io/badge/SOURCE_CODE-1E293B?style=for-the-badge&logoColor=white&labelColor=1E293B" height="30"></a>
@@ -297,7 +297,7 @@ Modular terminal game built in pure C.
 ### 📊 GAMAM — Data Strategy &amp; Cybersecurity Research
 <sub>Research project, ECE Paris · Dec 2025</sub>
 
-Comparative study of data monetization models across Google, Apple, Meta, Amazon and Microsoft, covering digital sovereignty, GDPR and the OWASP Top 10 (SQL injection, XSS, social engineering). Presented as a structured technical presentation to faculty.
+Comparative study of data monetization models across Google, Apple, Meta, Amazon and Microsoft, covering digital sovereignty, GDPR compliance and the OWASP Top 10 (SQL injection, XSS, social engineering). Presented as a structured technical presentation to faculty.
 
 <p>
 <a href="https://github.com/tarek200614/amazon-company-analysis"><img src="https://img.shields.io/badge/SOURCE_CODE-1E293B?style=for-the-badge&logoColor=white&labelColor=1E293B" height="30"></a>
@@ -318,55 +318,42 @@ Comparative study of data monetization models across Google, Apple, Meta, Amazon
 </div>
 <br>
 
-<table width="100%">
-<tr><td align="center">
+<div align="center">
 
 <sub><b>LANGUAGES</b></sub>
-<br><br>
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=cplusplus&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=38BDF8" height="34">&nbsp;<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=00D9FF" height="34">
-
-</td></tr>
-<tr><td align="center"><br></td></tr>
-<tr><td align="center">
+<br>
+<img src="https://skillicons.dev/icons?i=python,c,php,js,html,css" height="42"><br><br>
 
 <sub><b>AI / DATA</b></sub>
-<br><br>
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/pandas-111827?style=for-the-badge&logo=pandas&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/matplotlib-111827?style=for-the-badge" height="34">&nbsp;<img src="https://img.shields.io/badge/MATLAB-111827?style=for-the-badge&logo=mathworks&logoColor=00D9FF" height="34">
-
-</td></tr>
-<tr><td align="center"><br></td></tr>
-<tr><td align="center">
+<br>
+<img src="https://skillicons.dev/icons?i=python" height="42">&nbsp;
+<img src="https://img.shields.io/badge/NumPy-1E293B?style=flat-square&logo=numpy&logoColor=38BDF8" height="28">&nbsp;
+<img src="https://img.shields.io/badge/pandas-1E293B?style=flat-square&logo=pandas&logoColor=38BDF8" height="28">&nbsp;
+<img src="https://img.shields.io/badge/scikit--learn-1E293B?style=flat-square&logo=scikitlearn&logoColor=38BDF8" height="28">&nbsp;
+<img src="https://img.shields.io/badge/matplotlib-1E293B?style=flat-square&logoColor=38BDF8" height="28">&nbsp;
+<img src="https://img.shields.io/badge/MATLAB-1E293B?style=flat-square&logo=mathworks&logoColor=38BDF8" height="28"><br><br>
 
 <sub><b>WEB / BACKEND</b></sub>
-<br><br>
-<img src="https://img.shields.io/badge/PHP%208-111827?style=for-the-badge&logo=php&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/PDO-111827?style=for-the-badge" height="34">&nbsp;<img src="https://img.shields.io/badge/JavaScript%20ES6%2B-111827?style=for-the-badge&logo=javascript&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/DOM-111827?style=for-the-badge&logo=html5&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=00D9FF" height="34">
-
-</td></tr>
-<tr><td align="center"><br></td></tr>
-<tr><td align="center">
+<br>
+<img src="https://skillicons.dev/icons?i=php,js,html,css" height="42"><br><br>
 
 <sub><b>DATABASES</b></sub>
-<br><br>
-<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/Relational%20Modeling-111827?style=for-the-badge" height="34">
-
-</td></tr>
-<tr><td align="center"><br></td></tr>
-<tr><td align="center">
+<br>
+<img src="https://skillicons.dev/icons?i=mysql" height="42">&nbsp;
+<img src="https://img.shields.io/badge/PDO-1E293B?style=flat-square&logoColor=38BDF8" height="28"><br><br>
 
 <sub><b>SECURITY</b></sub>
-<br><br>
-<img src="https://img.shields.io/badge/bcrypt-111827?style=for-the-badge" height="34">&nbsp;<img src="https://img.shields.io/badge/SQLi%20Prevention-111827?style=for-the-badge" height="34">&nbsp;<img src="https://img.shields.io/badge/XSS%20Prevention-111827?style=for-the-badge" height="34">&nbsp;<img src="https://img.shields.io/badge/Input%20Validation-111827?style=for-the-badge" height="34">&nbsp;<img src="https://img.shields.io/badge/Safe%20Eval%20(AST)-111827?style=for-the-badge" height="34">
-
-</td></tr>
-<tr><td align="center"><br></td></tr>
-<tr><td align="center">
+<br>
+<img src="https://img.shields.io/badge/bcrypt-1E293B?style=flat-square&logoColor=38BDF8" height="28">&nbsp;
+<img src="https://img.shields.io/badge/SQLi_Prevention-1E293B?style=flat-square&logoColor=38BDF8" height="28">&nbsp;
+<img src="https://img.shields.io/badge/XSS_Prevention-1E293B?style=flat-square&logoColor=38BDF8" height="28">&nbsp;
+<img src="https://img.shields.io/badge/AST_Safe_Eval-1E293B?style=flat-square&logoColor=38BDF8" height="28"><br><br>
 
 <sub><b>TOOLS</b></sub>
-<br><br>
-<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=00D9FF" height="34">
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="42">
 
-</td></tr>
-</table>
+</div>
 
 <br>
 
@@ -410,7 +397,7 @@ Comparative study of data monetization models across Google, Apple, Meta, Amazon
 
 **ECE PARIS** — École Centrale d'Électronique &nbsp;·&nbsp; <sub>Paris, France</sub>
 <br><sub>Bachelor Informatique — AI &amp; Data Science specialization &nbsp;·&nbsp; Oct 2025 – Dec 2028</sub>
-<br><sub>Programming · Algorithms · Databases · Networks · Embedded Systems · AI · Data Science</sub>
+<br><sub>Programming (Python, C, PHP, SQL, JavaScript) · Algorithms · Databases · Networks · Embedded Systems · AI · Data Science</sub>
 
 </td>
 </tr>
@@ -420,14 +407,14 @@ Comparative study of data monetization models across Google, Apple, Meta, Amazon
 <tr>
 <td width="50%">
 
-**NATIONAL HIGHER SCHOOL OF MATHEMATICS** &nbsp;·&nbsp; <sub>Algiers</sub>
+**NATIONAL HIGHER SCHOOL OF MATHEMATICS** &nbsp;·&nbsp; <sub>Algiers, Algeria</sub>
 <br><sub>Licence 1 — Pure &amp; Applied Mathematics &nbsp;·&nbsp; 2024 – 2025</sub>
 <br><sub>Analysis · Linear Algebra · Probability · Statistics</sub>
 
 </td>
 <td width="50%">
 
-**ZOUBIDA OULD KABLIA HIGH SCHOOL** &nbsp;·&nbsp; <sub>Algiers</sub>
+**ZOUBIDA OULD KABLIA HIGH SCHOOL** &nbsp;·&nbsp; <sub>Algiers, Algeria</sub>
 <br><sub>Baccalaureate — Technical Mathematics &nbsp;·&nbsp; Jun 2024</sub>
 <br><sub>Electrical Engineering track</sub>
 
@@ -515,7 +502,7 @@ Comparative study of data monetization models across Google, Apple, Meta, Amazon
 </tr>
 </table>
 
-<div align="center"><sub><b>Open to internship opportunities</b> in software engineering, Data Science or Full-Stack development.</sub></div>
+<div align="center"><sub><b>Open to internship opportunities</b> in Software Engineering, Data Science or Full-Stack development — available immediately, Île-de-France.</sub></div>
 
 <br>
 
@@ -531,9 +518,11 @@ Comparative study of data monetization models across Google, Apple, Meta, Amazon
 
 <div align="center">
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ &nbsp;&nbsp; **10 · LET'S CONNECT** &nbsp;&nbsp; ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### LET'S CONNECT
+</div>
+
+<div align="center">
 
 Open to internships, academic collaboration and software projects.
 
@@ -551,7 +540,5 @@ Open to internships, academic collaboration and software projects.
 <a href="mailto:meghariabderrhmanetarek@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-0B1120?style=for-the-badge&logo=gmail&logoColor=6366F1&labelColor=0B1120" height="34">
 </a>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
