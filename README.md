@@ -1,6 +1,6 @@
 <div align="center">
 
-# A. Tarek MEGHARI
+# Abderrahmane Tarek MEGHARI
 
 ### Computer Science Student · AI & Data Science · Full-Stack Development
 
