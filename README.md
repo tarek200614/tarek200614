@@ -318,34 +318,55 @@ Comparative study of data monetization models across Google, Apple, Meta, Amazon
 </div>
 <br>
 
-<div align="center">
+<table width="100%">
+<tr><td align="center">
 
 <sub><b>LANGUAGES</b></sub>
-<br>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,php,js,html,css" height="42"><br><br>
+<br><br>
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=cplusplus&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=38BDF8" height="34">&nbsp;<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=00D9FF" height="34">
+
+</td></tr>
+<tr><td align="center"><br></td></tr>
+<tr><td align="center">
 
 <sub><b>AI / DATA</b></sub>
-<br>
-<img src="https://skillicons.dev/icons?i=python" height="42">&nbsp;
-<img src="https://img.shields.io/badge/NumPy-1E293B?style=flat-square&logo=numpy&logoColor=38BDF8" height="28">&nbsp;
-<img src="https://img.shields.io/badge/pandas-1E293B?style=flat-square&logo=pandas&logoColor=38BDF8" height="28">&nbsp;
-<img src="https://img.shields.io/badge/scikit--learn-1E293B?style=flat-square&logo=scikitlearn&logoColor=38BDF8" height="28">&nbsp;
-<img src="https://img.shields.io/badge/matplotlib-1E293B?style=flat-square&logoColor=38BDF8" height="28">&nbsp;
-<img src="https://img.shields.io/badge/MATLAB-1E293B?style=flat-square&logo=mathworks&logoColor=38BDF8" height="28"><br><br>
+<br><br>
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/pandas-111827?style=for-the-badge&logo=pandas&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/matplotlib-111827?style=for-the-badge" height="34">&nbsp;<img src="https://img.shields.io/badge/MATLAB-111827?style=for-the-badge&logo=mathworks&logoColor=00D9FF" height="34">
+
+</td></tr>
+<tr><td align="center"><br></td></tr>
+<tr><td align="center">
 
 <sub><b>WEB / BACKEND</b></sub>
-<br>
-<img src="https://skillicons.dev/icons?i=php,js,html,css" height="42"><br><br>
+<br><br>
+<img src="https://img.shields.io/badge/PHP%208-111827?style=for-the-badge&logo=php&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/PDO-111827?style=for-the-badge" height="34">&nbsp;<img src="https://img.shields.io/badge/JavaScript%20ES6%2B-111827?style=for-the-badge&logo=javascript&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/DOM-111827?style=for-the-badge&logo=html5&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=00D9FF" height="34">
+
+</td></tr>
+<tr><td align="center"><br></td></tr>
+<tr><td align="center">
 
 <sub><b>DATABASES</b></sub>
-<br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres" height="42"><br><br>
+<br><br>
+<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/Relational%20Modeling-111827?style=for-the-badge" height="34">
+
+</td></tr>
+<tr><td align="center"><br></td></tr>
+<tr><td align="center">
+
+<sub><b>SECURITY</b></sub>
+<br><br>
+<img src="https://img.shields.io/badge/bcrypt-111827?style=for-the-badge" height="34">&nbsp;<img src="https://img.shields.io/badge/SQLi%20Prevention-111827?style=for-the-badge" height="34">&nbsp;<img src="https://img.shields.io/badge/XSS%20Prevention-111827?style=for-the-badge" height="34">&nbsp;<img src="https://img.shields.io/badge/Input%20Validation-111827?style=for-the-badge" height="34">&nbsp;<img src="https://img.shields.io/badge/Safe%20Eval%20(AST)-111827?style=for-the-badge" height="34">
+
+</td></tr>
+<tr><td align="center"><br></td></tr>
+<tr><td align="center">
 
 <sub><b>TOOLS</b></sub>
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" height="42">
+<br><br>
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=00D9FF" height="34">&nbsp;<img src="https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=00D9FF" height="34">
 
-</div>
+</td></tr>
+</table>
 
 <br>
 
