@@ -234,7 +234,7 @@ Online exam portal with a client-side anti-cheat engine.
 </td>
 <td width="50%" valign="top">
 
-<div align="center"><br><img src="https://skillicons.dev/icons?i=python" height="46"><br><br></div>
+<img width="1672" height="941" alt="python calculator" src="https://github.com/user-attachments/assets/00834a73-09d5-429c-8eee-a38a17b4dac4" />
 
 **Python Calculator** — Secure Desktop Calculator
 <br><sub>Personal · Python 3.11+, Tkinter</sub>
