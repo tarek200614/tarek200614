@@ -547,14 +547,4 @@ Comparative study of data monetization models across Google, Apple, Meta, Amazon
 </a>
 
 </div>
-<div align="center">
 
-<img src="https://img.shields.io/badge/🎓%20ECE%20Paris-Bachelor%20Informatique-00D9FF?style=for-the-badge&labelColor=0B1120">
-&nbsp;
-<img src="https://img.shields.io/badge/🤖%20Focus-AI%20%26%20Data%20Science-8B5CF6?style=for-the-badge&labelColor=0B1120">
-&nbsp;
-<img src="https://img.shields.io/badge/⚡%20Building-Full--Stack%20Software-38BDF8?style=for-the-badge&labelColor=0B1120">
-&nbsp;
-<img src="https://img.shields.io/badge/🛡️%20Approach-Security%20%2B%20Testing-10B981?style=for-the-badge&labelColor=0B1120">
-
-</div>
