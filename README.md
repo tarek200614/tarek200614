@@ -1,748 +1,475 @@
 <div align="center">
-
-<img src="assets/github/hero.svg" width="100%" alt="Abderrahmane Tarek MEGHARI — AI, Data Science and secure full-stack engineering">
-
-<br><br>
-
-<img src="https://meghari-abderrahamane-tarek.netlify.app/assets/images/profile.jpg" width="150" height="150" style="border-radius:50%;" alt="Abderrahmane Tarek MEGHARI">
+  
+<img src="assets/github/profile.png" width="160" alt="Abderrahmane Tarek MEGHARI">
 
 <br><br>
 
-# ABDERRAHMANE TAREK MEGHARI
+# <span style="color:#38BDF8">ABDERRAHMANE TAREK MEGHARI</span>
+
+### `Software Engineering` · `AI & Data Science` · `Secure Development`
 
 <br>
 
-<img src="https://img.shields.io/badge/AI_%26_DATA_SCIENCE-8B5CF6?style=for-the-badge&labelColor=05070B" height="30">&nbsp;&nbsp;<img src="https://img.shields.io/badge/FULL--STACK_ENGINEERING-00D9FF?style=for-the-badge&labelColor=05070B" height="30">&nbsp;&nbsp;<img src="https://img.shields.io/badge/SECURITY-10B981?style=for-the-badge&labelColor=05070B" height="30">
+<img src="https://img.shields.io/badge/ECE_PARIS-2025--PRESENT-05070B?style=for-the-badge&labelColor=05070B&color=10B981" alt="ECE Paris">
+<img src="https://img.shields.io/badge/AI_%26_DATA_SCIENCE-05070B?style=for-the-badge&labelColor=05070B&color=8B5CF6" alt="AI and Data Science">
+<img src="https://img.shields.io/badge/ÎLE--DE--FRANCE-05070B?style=for-the-badge&labelColor=05070B&color=10B981" alt="Île-de-France">
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=Building+practical+software+at+the+intersection;of+data%2C+algorithms+and+secure+engineering." alt="Typing SVG" />
+> **Building practical software where algorithms, data and engineering meet.**
+
+<br>
+
+<img src="https://img.shields.io/badge/●_OPEN_TO_OPPORTUNITIES-071A12?style=for-the-badge&labelColor=071A12&color=10B981" alt="Open to opportunities">
 
 <br><br>
 
-### Bachelor Informatique · ECE Paris · AI &amp; Data Science
+<a href="https://meghari-abderrahamane-tarek.netlify.app/">
+<img src="https://img.shields.io/badge/↗_PORTFOLIO-05070B?style=for-the-badge&labelColor=05070B&color=94A3B8&logo=googlechrome&logoColor=94A3B8" height="36" alt="Portfolio">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/abderrahmane-tarek-meghari/">
+<img src="https://img.shields.io/badge/IN_LINKEDIN-05070B?style=for-the-badge&labelColor=05070B&color=0A66C2&logo=linkedin&logoColor=0A66C2" height="36" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="mailto:meghariabderrhmanetarek@gmail.com">
+<img src="https://img.shields.io/badge/✉_EMAIL-05070B?style=for-the-badge&labelColor=05070B&color=F59E0B&logo=gmail&logoColor=F59E0B" height="36" alt="Email">
+</a>
+&nbsp;
+<a href="https://github.com/tarek200614">
+<img src="https://img.shields.io/badge/⌘_GITHUB-05070B?style=for-the-badge&labelColor=05070B&color=F8FAFC&logo=github&logoColor=F8FAFC" height="36" alt="GitHub">
+</a>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,js,php,c,mysql,html,css,git,github,linux,docker,figma,windows,numpy,pandas,sklearn,matlab" height="1040" alt="Technical stack">
+
+</div>
+
+---
+
+<div align="center">
+
+## `01` — PROFILE
+
+</div>
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+### Engineering with a foundation in mathematics
+
+Bachelor Informatique student at **ECE Paris**, specializing in **AI & Data Science**, with a strong foundation in mathematics, algorithms and software engineering.
+
+I build **full-stack applications, algorithmic tools and practical software projects**, with an emphasis on clean structure, testing and secure-by-default development.
+
+My projects combine **Python, PHP, JavaScript, C and SQL**, while my academic background covers AI, Data Science, algorithms, databases and networks.
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+### `CURRENT STATUS`
+
+<br>
+
+<img src="https://img.shields.io/badge/●_OPEN_TO_OPPORTUNITIES-071A12?style=for-the-badge&labelColor=071A12&color=10B981" alt="Open to opportunities">
+
+<br><br>
+
+**Software Engineering**
+
+**Full-Stack Development**
+
+**Data / AI**
+
+<br>
+
+📍 **Île-de-France**
+
+<br>
+
+<sub>Available immediately</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `02` — SELECTED WORK
+
+<sub>Three projects that best represent how I build.</sub>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### ⚡ TaskFlow
+
+**Task & Project Management Dashboard**
+
+<img src="https://meghari-abderrahamane-tarek.netlify.app/assets/images/TaskFlow%20%E2%80%94%20Task%20%26%20Project%20Management%20Dashboard.jpg" width="92%" alt="TaskFlow task management dashboard">
+
+</div>
+
+**JavaScript · HTML · CSS**
+
+Zero-dependency task management application combining a Kanban workflow with live dashboard analytics.
+
+**Built around**
+
+- Native drag & drop Kanban
+- Hand-built SVG charts
+- LocalStorage schema versioning
+- Automatic data recovery
+
+<div align="center">
+
+<a href="https://taskflow-gamma-nine-50.vercel.app/">
+<img src="https://img.shields.io/badge/↗_LIVE_DEMO-05070B?style=for-the-badge&color=38BDF8&logo=vercel&logoColor=white" alt="TaskFlow live demo">
+</a>
+&nbsp;
+<a href="https://github.com/tarek200614/TaskFlow">
+<img src="https://img.shields.io/badge/⌘_SOURCE-05070B?style=for-the-badge&color=8B5CF6&logo=github&logoColor=white" alt="TaskFlow source code">
+</a>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🛒 LeBonCoin Clone
+
+**Classifieds Marketplace Platform**
+
+<img src="https://meghari-abderrahamane-tarek.netlify.app/assets/images/Classifieds%20Marketplace%20Platform%20%E2%80%94%20LeBonCoin%20Clone.jpg" width="92%" alt="LeBonCoin clone marketplace platform">
+
+</div>
+
+**PHP · MySQL · PDO · JavaScript**
+
+Full-stack C2C marketplace developed at ECE Paris, spanning **15+ PHP pages**.
+
+**Built around**
+
+- bcrypt authentication
+- Prepared PDO queries
+- Relational database design
+- Private messaging & favorites
+
+<div align="center">
+
+<a href="https://demo-green-phi-88.vercel.app/">
+<img src="https://img.shields.io/badge/↗_LIVE_DEMO-05070B?style=for-the-badge&color=38BDF8&logo=vercel&logoColor=white" alt="LeBonCoin live demo">
+</a>
+&nbsp;
+<a href="https://github.com/tarek200614/leboncoin-clone">
+<img src="https://img.shields.io/badge/⌘_SOURCE-05070B?style=for-the-badge&color=8B5CF6&logo=github&logoColor=white" alt="LeBonCoin source code">
+</a>
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="90%" align="center">
+
+### 🛡️ QCM Anti-Cheat
+
+**Online Examination Platform**
+
+**PHP · MySQL · JavaScript**
+
+Role-based authentication, randomized examinations, automatic scoring and client-side anti-cheat mechanisms including tab-switch, blur and fullscreen-exit detection.
+
+<br>
+
+<a href="https://demo1-lake-seven.vercel.app/">
+<img src="https://img.shields.io/badge/↗_LIVE_DEMO-05070B?style=for-the-badge&color=10B981&logo=vercel&logoColor=white" alt="QCM Anti-Cheat live demo">
+</a>
+&nbsp;
+<a href="https://github.com/tarek200614/computer-science-qcm-anti-cheat">
+<img src="https://img.shields.io/badge/⌘_SOURCE-05070B?style=for-the-badge&color=8B5CF6&logo=github&logoColor=white" alt="QCM Anti-Cheat source code">
+</a>
+
+</td>
+</tr>
+</table>
 
 <br>
 
 <a href="https://meghari-abderrahamane-tarek.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-05070B?style=for-the-badge&logo=netlify&logoColor=00D9FF&labelColor=05070B" height="40">
-</a>
-<a href="https://www.linkedin.com/in/abderrahmane-tarek-meghari/">
-<img src="https://img.shields.io/badge/LinkedIn-05070B?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=05070B" height="40">
-</a>
-<a href="https://github.com/tarek200614">
-<img src="https://img.shields.io/badge/GitHub-05070B?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=05070B" height="40">
-</a>
-<a href="mailto:meghariabderrhmanetarek@gmail.com">
-<img src="https://img.shields.io/badge/Email-05070B?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=05070B" height="40">
+<img src="https://img.shields.io/badge/→_MORE_PROJECTS_%26_ARCHITECTURE-05070B?style=for-the-badge&color=38BDF8&logo=googlechrome&logoColor=white" alt="More projects and architecture">
 </a>
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python,php,js,mysql,c,html,css,git" height="42">
-
 </div>
 
-<br><br><br>
+---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01-05070B?style=for-the-badge&labelColor=05070B&color=00D9FF" height="38">
+## `03` — WHAT I WORK WITH
 
-## PROFILE
+<br>
 
-<img src="https://img.shields.io/badge/-00D9FF?style=flat-square" width="130" height="4">
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### `01`
+
+<img src="https://skillicons.dev/icons?i=python,js,php,c" height="38" alt="Programming languages">
+
+**PROGRAMMING**
+
+Python · JavaScript · PHP · C
+
+</td>
+
+<td align="center" width="33%">
+
+### `02`
+
+<img src="https://skillicons.dev/icons?i=mysql,html,css,numpy,pandas,sklearn,matlab" height="38" alt="Web, data and scientific technologies">
+
+**WEB & DATA**
+
+SQL · MySQL · HTML · CSS  
+NumPy · pandas · scikit-learn · MATLAB
+
+</td>
+
+<td align="center" width="33%">
+
+### `03`
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,windows,docker,figma" height="38" alt="Development and engineering tools">
+
+**ENGINEERING**
+
+Git · GitHub · Linux · Windows  
+Docker · Figma · Testing · Documentation
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/SECURE_DEVELOPMENT-071A12?style=for-the-badge&labelColor=071A12&color=10B981" alt="Secure development">
+
+<br><br>
+
+`bcrypt` · `Prepared SQL` · `SQLi prevention` · `XSS-aware development` · `AST-based parsing`
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/BUILDING-05070B?style=for-the-badge&labelColor=05070B&color=00D9FF" height="26">
-
-<br><br>
-
-### Full-Stack Software
-
-Python · PHP · JavaScript
+## `04` — ACADEMIC FOUNDATION
 
 </div>
 
-<br><br>
+<table>
+<tr>
 
-<div align="center">
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/SPECIALIZATION-05070B?style=for-the-badge&labelColor=05070B&color=8B5CF6" height="26">
+### 🎓 ECE Paris
 
-<br><br>
+**2025 — Present**
 
-### AI &amp; Data Science
+**Bachelor Informatique**  
+AI & Data Science specialization
 
-Applied Mathematics
+Programming · Algorithms · Databases · Networks · AI · Data Science
 
-</div>
+</td>
 
-<br><br>
+<td width="50%" valign="top">
 
-<div align="center">
+### ∑ Mathematics
 
-<img src="https://img.shields.io/badge/ENGINEERING-05070B?style=for-the-badge&labelColor=05070B&color=10B981" height="26">
+**2024 — 2025**
 
-<br><br>
+**National Higher School of Mathematics — Algiers**
 
-### Security-Aware
-
-Tested · Documented
-
-</div>
-
-<br><br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/EDUCATION-05070B?style=for-the-badge&labelColor=05070B&color=F59E0B" height="26">
-
-<br><br>
-
-### ECE Paris
-
-Bachelor Informatique
-
-</div>
-
-<br><br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/POSITIONING-05070B?style=flat-square&labelColor=05070B&color=CBD5E1" height="22">
-
-</div>
-<br>
-
-> ### Full-stack junior developer building practical, data-driven software with a security-aware, mathematics-heavy foundation.
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/BACKGROUND-05070B?style=flat-square&labelColor=05070B&color=CBD5E1" height="22">
-
-</div>
-<br>
-
-Bachelor Informatique student at **ECE Paris**, specializing in AI &amp; Data Science, with a mathematics foundation from a Technical Mathematics Baccalaureate — **Highest Honors, 18.05/20** (20/20 in Mathematics, Physics and Electrical Engineering) — and a year of Pure &amp; Applied Mathematics at the National Higher School of Mathematics in Algiers.
-
-I build full-stack applications, algorithmic tools and small SaaS-style projects, applying modular architecture and secure-by-default practices by habit: **bcrypt** hashing, **prepared statements**, and **AST-based safe expression evaluation** instead of `eval()`.
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/CURRENT_AVAILABILITY-05070B?style=flat-square&labelColor=05070B&color=10B981" height="22">
-
-</div>
-<br>
-
-**Available immediately** for an internship in Software Engineering, Data Science or Full-Stack development in Île-de-France.
-
-<br><br><br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/02-05070B?style=for-the-badge&labelColor=05070B&color=8B5CF6" height="38">
-
-## CORE SPECIALIZATIONS
-
-<img src="https://img.shields.io/badge/-8B5CF6?style=flat-square" width="130" height="4">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/●_AI_%26_DATA-1E1B33?style=for-the-badge&color=8B5CF6" height="30">
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python" height="46">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/NumPy-1E1B33?style=for-the-badge&logoColor=8B5CF6&color=1E1B33" height="30">&nbsp;
-<img src="https://img.shields.io/badge/pandas-1E1B33?style=for-the-badge&logoColor=8B5CF6&color=1E1B33" height="30">&nbsp;
-<img src="https://img.shields.io/badge/scikit--learn-1E1B33?style=for-the-badge&logoColor=8B5CF6&color=1E1B33" height="30">&nbsp;
-<img src="https://img.shields.io/badge/matplotlib-1E1B33?style=for-the-badge&logoColor=8B5CF6&color=1E1B33" height="30">&nbsp;
-<img src="https://img.shields.io/badge/MATLAB-1E1B33?style=for-the-badge&logoColor=8B5CF6&color=1E1B33" height="30">
-
-<br><br>
-
-Data analysis · exploratory statistics · ML foundations
-
-</div>
-
-<br><br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/●_FULL--STACK-0B1E33?style=for-the-badge&color=00D9FF" height="30">
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=js,php,html,css,mysql" height="46">
-
-<br><br>
-
-Responsive frontend · procedural PHP backend · relational data modelling
-
-</div>
-
-<br><br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/●_SECURITY-0B2A1E?style=for-the-badge&color=10B981" height="30">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/bcrypt-0B2A1E?style=for-the-badge&logoColor=10B981&color=0B2A1E" height="30">&nbsp;
-<img src="https://img.shields.io/badge/SQLi_Prevention-0B2A1E?style=for-the-badge&logoColor=10B981&color=0B2A1E" height="30">&nbsp;
-<img src="https://img.shields.io/badge/XSS_Prevention-0B2A1E?style=for-the-badge&logoColor=10B981&color=0B2A1E" height="30">&nbsp;
-<img src="https://img.shields.io/badge/AST_Safe_Eval-0B2A1E?style=for-the-badge&logoColor=10B981&color=0B2A1E" height="30">
-
-<br><br>
-
-Secure-by-default habits, applied across every project
-
-</div>
-
-<br><br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/●_COMPUTER_SCIENCE-2E1E0B?style=for-the-badge&color=F59E0B" height="30">
-
-<br><br>
-
-Data structures · Graphs (BFS/DFS/Dijkstra) · Recursion · Big-O analysis
-
-<br><br>
-
-Fundamentals-first problem solving
-
-</div>
-
-<br><br><br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/03-05070B?style=for-the-badge&labelColor=05070B&color=38BDF8" height="38">
-
-## PROJECT SHOWCASE
-
-<img src="https://img.shields.io/badge/-38BDF8?style=flat-square" width="130" height="4">
-
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://img.shields.io/badge/FEATURED_PROJECT-05070B?style=for-the-badge&labelColor=05070B&color=00D9FF" height="24">
-</div>
-
-<br>
-
-<img src="https://meghari-abderrahamane-tarek.netlify.app/assets/images/TaskFlow%20%E2%80%94%20Task%20%26%20Project%20Management%20Dashboard.jpg" width="100%" alt="TaskFlow task management dashboard with Kanban board and analytics">
-
-<br>
-
-# TaskFlow
-
-### Task &amp; Project Management Dashboard
-
-<sub>Personal · Jun–Aug 2026</sub>
-
-Zero-dependency SaaS-style task manager with a Kanban board and live dashboard analytics.
-
-**TECH STACK**
-
-<img src="https://skillicons.dev/icons?i=js,html,css" height="38">
-
-**KEY FEATURES**
-
-→ Native drag &amp; drop Kanban board
-→ Hand-built SVG dashboard charts
-→ LocalStorage with schema versioning &amp; auto-recovery
-
-<p align="center">
-<a href="https://taskflow-gamma-nine-50.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=00D9FF" height="38"></a>&nbsp;&nbsp;
-<a href="https://github.com/tarek200614/TaskFlow"><img src="https://img.shields.io/badge/Source_Code-05070B?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=05070B" height="38"></a>
-</p>
-
-<br>
-
-<div align="center"><img src="https://img.shields.io/badge/-00D9FF?style=flat-square" width="130" height="3"></div>
-
-<br><br>
-
-<div align="center">
-<img src="https://img.shields.io/badge/FEATURED_PROJECT-05070B?style=for-the-badge&labelColor=05070B&color=38BDF8" height="24">
-</div>
-
-<br>
-
-<img src="https://meghari-abderrahamane-tarek.netlify.app/assets/images/Classifieds%20Marketplace%20Platform%20%E2%80%94%20LeBonCoin%20Clone.jpg" width="100%" alt="LeBonCoin clone classifieds marketplace platform">
-
-<br>
-
-# LeBonCoin Clone
-
-### Classifieds Marketplace Platform
-
-<sub>Pair project, ECE Paris · Mar–Apr 2026</sub>
-
-Full-stack C2C marketplace spanning 15+ PHP pages.
-
-**TECH STACK**
-
-<img src="https://skillicons.dev/icons?i=php,mysql" height="38">
-
-**KEY FEATURES**
-
-→ bcrypt auth, 5-table relational schema
-→ Prepared PDO queries throughout
-→ Private messaging &amp; favorites management
-
-<p align="center">
-<a href="https://demo-green-phi-88.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=00D9FF" height="38"></a>&nbsp;&nbsp;
-<a href="https://github.com/tarek200614/leboncoin-clone"><img src="https://img.shields.io/badge/Source_Code-05070B?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=05070B" height="38"></a>
-</p>
-
-<br><br>
-
-<div align="center"><img src="https://img.shields.io/badge/-94A3B8?style=flat-square" width="130" height="4"></div>
-
-<br><br>
-
-<div align="center">
-<img src="https://img.shields.io/badge/SECONDARY_PROJECT-0B2A1E?style=for-the-badge&color=10B981" height="24">
-</div>
-
-<br>
-
-<img src="https://meghari-abderrahamane-tarek.netlify.app/assets/images/Computer%20Science%20QCM%20Exam%20App%20with%20Anti-Cheat%20System.jpg" width="100%" alt="QCM anti-cheat secure exam platform">
-
-<br>
-
-### QCM Anti-Cheat
-
-Secure Exam Platform
-
-<sub>Team, ECE Paris · Apr 2026</sub>
-
-Online exam portal with a client-side anti-cheat engine.
-
-<img src="https://skillicons.dev/icons?i=php,mysql,js" height="32">
-
-→ Role-based auth, randomized questions, auto-scoring
-→ Tab-switch, blur &amp; fullscreen-exit detection
-
-<p align="center">
-<a href="https://demo1-lake-seven.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=00D9FF" height="34"></a>&nbsp;&nbsp;
-<a href="https://github.com/tarek200614/computer-science-qcm-anti-cheat"><img src="https://img.shields.io/badge/Source_Code-05070B?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=05070B" height="34"></a>
-</p>
-
-<br>
-
-<div align="center"><img src="https://img.shields.io/badge/-94A3B8?style=flat-square" width="130" height="3"></div>
-
-<br><br>
-
-<div align="center">
-<img src="https://img.shields.io/badge/SECONDARY_PROJECT-2E1E0B?style=for-the-badge&color=F59E0B" height="24">
-</div>
-
-<br>
-
-<img width="100%" alt="python calculator" src="https://github.com/user-attachments/assets/00834a73-09d5-429c-8eee-a38a17b4dac4" />
-
-<br>
-
-### Python Calculator
-
-Secure Desktop Calculator
-
-<sub>Personal · Python 3.11+, Tkinter</sub>
-
-Desktop calculator with the GUI cleanly separated from the calc engine.
-
-<img src="https://skillicons.dev/icons?i=python" height="32">
-
-→ No `eval()` — parsed via `ast.parse()`
-→ 38 automated `unittest` tests
-
-<p align="center"><sub><i>Desktop application — no hosted demo</i></sub></p>
-
-<br>
-
-<div align="center"><img src="https://img.shields.io/badge/-94A3B8?style=flat-square" width="130" height="3"></div>
-
-<br><br>
-
-<div align="center">
-<img src="https://img.shields.io/badge/SECONDARY_PROJECT-2E1E0B?style=for-the-badge&color=F59E0B" height="24">
-</div>
-
-<br>
-
-<img src="https://meghari-abderrahamane-tarek.netlify.app/assets/images/Hash%20Table%20Implementation%20with%20Collision%20Handling.jpg" width="100%" alt="Hash table implementation, part of the algorithms and data structures collection">
-
-<br>
-
-### Algorithms &amp; Data Structures
-
-<sub>Personal · Python 3</sub>
-
-Documented collection of core CS fundamentals and small OOP exercises.
-
-<img src="https://skillicons.dev/icons?i=python" height="32">
-
-→ Hash table, BFS/DFS, Dijkstra shortest path
-→ Recursive algorithms, geometry &amp; budget OOP exercises
-
-<p align="center">
-<a href="https://github.com/tarek200614/python-algorithms-data-structures"><img src="https://img.shields.io/badge/Source_Code-05070B?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=05070B" height="34"></a>
-</p>
-
-<br>
-
-<div align="center"><img src="https://img.shields.io/badge/-94A3B8?style=flat-square" width="130" height="3"></div>
-
-<br><br>
-
-<div align="center">
-<img src="https://img.shields.io/badge/SECONDARY_PROJECT-0B1E33?style=for-the-badge&color=38BDF8" height="24">
-</div>
-
-<br>
-
-<img src="https://meghari-abderrahamane-tarek.netlify.app/assets/images/Tic%20Tac%20Toe%20Game%20in%20C%20with%20File%20History%20%26%20Move%20Timer.jpg" width="100%" alt="Tic Tac Toe game written in C with move history">
-
-<br>
-
-### Tic Tac Toe — C
-
-<sub>Team, ECE Paris · Nov–Dec 2025</sub>
-
-Modular terminal game with persistent move history, in pure C.
-
-<img src="https://skillicons.dev/icons?i=c" height="32">
-
-→ `struct Joueur` model, 10+ modular functions
-→ Move history logged to file
-
-<p align="center">
-<a href="https://github.com/tarek200614/tic-tac-toe-c"><img src="https://img.shields.io/badge/Source_Code-05070B?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=05070B" height="34"></a>
-</p>
-
-<br><br>
-
-<div align="center"><img src="https://img.shields.io/badge/-94A3B8?style=flat-square" width="130" height="4"></div>
-
-<br><br>
-
-<div align="center">
-<img src="https://img.shields.io/badge/RESEARCH-1E1B33?style=for-the-badge&color=EC4899" height="24">
-</div>
-
-<br>
-
-<img src="https://meghari-abderrahamane-tarek.netlify.app/assets/images/Research%20Presentation%20GAMAM%2C%20Data%20Strategy%20Cybersecurity.jpg" width="100%" alt="GAMAM research presentation on data strategy and cybersecurity">
-
-<br>
-
-### GAMAM — Data Strategy &amp; Cybersecurity Research
-
-<sub>Research, ECE Paris · Dec 2025</sub>
-
-Comparative study of data monetization models across Google, Apple, Meta, Amazon and Microsoft, covering digital sovereignty, GDPR compliance and the OWASP Top 10. Presented to faculty.
-
-<p align="center">
-<a href="https://github.com/tarek200614/amazon-company-analysis"><img src="https://img.shields.io/badge/Source_Code-05070B?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=05070B" height="34"></a>
-</p>
-
-<br><br>
-
-<div align="center"><a href="https://meghari-abderrahamane-tarek.netlify.app/"><b>→ More projects &amp; architecture details on the full portfolio</b></a></div>
-
-<br><br><br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/04-05070B?style=for-the-badge&labelColor=05070B&color=10B981" height="38">
-
-## TECH STACK
-
-<img src="https://img.shields.io/badge/-10B981?style=flat-square" width="130" height="4">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/LANGUAGES-05070B?style=for-the-badge&labelColor=05070B&color=F8FAFC" height="24"><br><br>
-<img src="https://skillicons.dev/icons?i=python,c,php,js,html,css" height="48"><br><br><br>
-
-<img src="https://img.shields.io/badge/AI_%2F_DATA-1E1B33?style=for-the-badge&color=8B5CF6" height="24"><br><br>
-<img src="https://skillicons.dev/icons?i=python" height="42">&nbsp;
-<img src="https://img.shields.io/badge/NumPy-1E1B33?style=for-the-badge&logoColor=8B5CF6&color=1E1B33" height="30">&nbsp;
-<img src="https://img.shields.io/badge/pandas-1E1B33?style=for-the-badge&logoColor=8B5CF6&color=1E1B33" height="30">&nbsp;
-<img src="https://img.shields.io/badge/scikit--learn-1E1B33?style=for-the-badge&logoColor=8B5CF6&color=1E1B33" height="30">&nbsp;
-<img src="https://img.shields.io/badge/matplotlib-1E1B33?style=for-the-badge&logoColor=8B5CF6&color=1E1B33" height="30">&nbsp;
-<img src="https://img.shields.io/badge/MATLAB-1E1B33?style=for-the-badge&logoColor=8B5CF6&color=1E1B33" height="30"><br><br><br>
-
-<img src="https://img.shields.io/badge/WEB_%2F_BACKEND-0B1E33?style=for-the-badge&color=38BDF8" height="24"><br><br>
-<img src="https://skillicons.dev/icons?i=php,js,html,css" height="42">&nbsp;
-<img src="https://img.shields.io/badge/PDO-0B1E33?style=for-the-badge&logoColor=38BDF8&color=0B1E33" height="30"><br><br><br>
-
-<img src="https://img.shields.io/badge/DATABASES-0B1E33?style=for-the-badge&color=38BDF8" height="24"><br><br>
-<img src="https://skillicons.dev/icons?i=mysql" height="42"><br><br><br>
-
-<img src="https://img.shields.io/badge/SECURITY-0B2A1E?style=for-the-badge&color=10B981" height="24"><br><br>
-<img src="https://img.shields.io/badge/bcrypt-0B2A1E?style=for-the-badge&logoColor=10B981&color=0B2A1E" height="30">&nbsp;
-<img src="https://img.shields.io/badge/SQLi_Prevention-0B2A1E?style=for-the-badge&logoColor=10B981&color=0B2A1E" height="30">&nbsp;
-<img src="https://img.shields.io/badge/XSS_Prevention-0B2A1E?style=for-the-badge&logoColor=10B981&color=0B2A1E" height="30">&nbsp;
-<img src="https://img.shields.io/badge/AST_Safe_Eval-0B2A1E?style=for-the-badge&logoColor=10B981&color=0B2A1E" height="30"><br><br><br>
-
-<img src="https://img.shields.io/badge/TOOLS-05070B?style=for-the-badge&labelColor=05070B&color=F8FAFC" height="24"><br><br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="42">
-
-</div>
-
-<br><br><br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/05-05070B?style=for-the-badge&labelColor=05070B&color=F59E0B" height="38">
-
-## ENGINEERING APPROACH
-
-<img src="https://img.shields.io/badge/-F59E0B?style=flat-square" width="130" height="4">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/01_UNDERSTAND-05070B?style=for-the-badge&labelColor=05070B&color=00D9FF" height="36">
-&nbsp;&nbsp;→&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/02_DESIGN-05070B?style=for-the-badge&labelColor=05070B&color=38BDF8" height="36">
-&nbsp;&nbsp;→&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/03_IMPLEMENT-05070B?style=for-the-badge&labelColor=05070B&color=8B5CF6" height="36">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/04_SECURE-05070B?style=for-the-badge&labelColor=05070B&color=10B981" height="36">
-&nbsp;&nbsp;→&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/05_TEST-05070B?style=for-the-badge&labelColor=05070B&color=F59E0B" height="36">
-&nbsp;&nbsp;→&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/06_DOCUMENT-05070B?style=for-the-badge&labelColor=05070B&color=EC4899" height="36">
-
-<br><br>
-
-Modular architecture · security-aware by default · automated testing · structured Git workflows · accessible interfaces
-
-</div>
-
-<br><br><br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/06-05070B?style=for-the-badge&labelColor=05070B&color=EC4899" height="38">
-
-## EDUCATION
-
-<img src="https://img.shields.io/badge/-EC4899?style=flat-square" width="130" height="4">
-
-</div>
-
-<br>
-
-<img src="https://img.shields.io/badge/●-00D9FF?style=flat-square&color=00D9FF" height="16">&nbsp;<sub><b>2025 — PRESENT</b></sub>
-
-#### ECE Paris
-
-**Bachelor Informatique — AI &amp; Data Science specialization**
-
-Programming (Python, C, PHP, SQL, JavaScript) · Algorithms · Databases · Networks · Embedded Systems · AI · Data Science
-
-<br>
-
-<img src="https://img.shields.io/badge/●-8B5CF6?style=flat-square&color=8B5CF6" height="16">&nbsp;<sub><b>2024 — 2025</b></sub>
-
-#### National Higher School of Mathematics — Algiers
-
-**Licence 1 — Pure &amp; Applied Mathematics**
+Licence 1 — Pure & Applied Mathematics
 
 Analysis · Linear Algebra · Probability · Statistics
 
-<br>
+</td>
 
-<img src="https://img.shields.io/badge/●-F59E0B?style=flat-square&color=F59E0B" height="16">&nbsp;<sub><b>2024</b></sub>
-
-#### Zoubida Ould Kablia High School — Algiers
-
-**Baccalaureate — Technical Mathematics, Electrical Engineering track**
-
-Highest Honors
-
-<br><br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/18.05%20%2F%2020-05070B?style=for-the-badge&labelColor=05070B&color=F59E0B" height="46">
-
-<br><br>
-
-### HIGHEST HONORS
-
-**20/20** Mathematics &nbsp;·&nbsp; **20/20** Physics &nbsp;·&nbsp; **20/20** Electrical Engineering
-
-</div>
-
-<br><br><br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/07-05070B?style=for-the-badge&labelColor=05070B&color=00D9FF" height="38">
-
-## CERTIFICATIONS
-
-<img src="https://img.shields.io/badge/-00D9FF?style=flat-square" width="130" height="4">
-
-</div>
+</tr>
+</table>
 
 <br>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/●-1E1B33?style=for-the-badge&color=8B5CF6" height="16">
+### Baccalaureate — Technical Mathematics
 
-<br><br>
+**Algeria · 2024 · Mention Très Bien · 18.05/20**
 
-#### Tech For All — AI / N1 Code Certificate
-
-DataScientest.com × ECE Paris
-
-<sub>AI fundamentals · Python data manipulation</sub>
+`20/20 Mathematics` · `20/20 Physics` · `20/20 Electrical Engineering`
 
 </div>
 
-<br><br>
+---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/●-2E1E0B?style=for-the-badge&color=F59E0B" height="16">
-
-<br><br>
-
-#### Algorithmic Programming Workshops
-
-ECE Paris
-
-<sub>Problem solving · data structures · algorithmic efficiency</sub>
-
-</div>
-
-<br><br><br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/08-05070B?style=for-the-badge&labelColor=05070B&color=8B5CF6" height="38">
-
-## GITHUB ACTIVITY
-
-<img src="https://img.shields.io/badge/-8B5CF6?style=flat-square" width="130" height="4">
-
-</div>
+## `05` — CERTIFICATIONS
 
 <br>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tarek200614&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=38BDF8&text_color=CBD5E1&count_private=true" height="175" alt="tarek200614's GitHub stats">
+<img src="https://img.shields.io/badge/TECH_FOR_ALL-05070B?style=for-the-badge&color=8B5CF6" alt="Tech For All">
+<img src="https://img.shields.io/badge/AI_%2F_N1_CODE-05070B?style=for-the-badge&color=38BDF8" alt="AI N1 Code">
+<img src="https://img.shields.io/badge/ECE_PARIS-05070B?style=for-the-badge&color=10B981" alt="ECE Paris">
+
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarek200614&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=CBD5E1&langs_count=8" height="175" alt="tarek200614's most used languages">
+
+**Tech For All — AI / N1 Code Certificate**
+
+DataScientest.com × ECE Paris · AI fundamentals · Python data manipulation
+
+<br><br>
+
+**Algorithmic Programming Workshops — ECE Paris**
+
+Problem solving · Data structures · Algorithmic efficiency
+
 </div>
 
-<br><br><br>
+---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/09-05070B?style=for-the-badge&labelColor=05070B&color=10B981" height="38">
-
-## CURRENT FOCUS
-
-<img src="https://img.shields.io/badge/-10B981?style=flat-square" width="130" height="4">
-
-</div>
+## `06` — LANGUAGES
 
 <br>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/01_AI_%26_DATA-1E1B33?style=for-the-badge&color=8B5CF6" height="32">&nbsp;&nbsp;Machine Learning
-
-<br><br>
-
-<img src="https://img.shields.io/badge/02_SOFTWARE-0B1E33?style=for-the-badge&color=00D9FF" height="32">&nbsp;&nbsp;Full-Stack Engineering
+<img src="https://img.shields.io/badge/FRANÇAIS-B2-05070B?style=for-the-badge&color=38BDF8" alt="French B2">
+<img src="https://img.shields.io/badge/ENGLISH-B2-05070B?style=for-the-badge&color=8B5CF6" alt="English B2">
+<img src="https://img.shields.io/badge/ARABIC-NATIVE-05070B?style=for-the-badge&color=10B981" alt="Arabic native">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/03_SECURITY-0B2A1E?style=for-the-badge&color=10B981" height="32">&nbsp;&nbsp;Secure Coding
-
-<br><br>
-
-<img src="https://img.shields.io/badge/04_COMPUTER_SCIENCE-2E1E0B?style=for-the-badge&color=F59E0B" height="32">&nbsp;&nbsp;Algorithms
-
-<br><br><br>
-
-**Open to internship opportunities** in Software Engineering, Data Science or Full-Stack development — available immediately, Île-de-France.
+♟ Chess &nbsp;·&nbsp; 🥋 Judo &nbsp;·&nbsp; Problem Solving &nbsp;·&nbsp; Continuous Learning
 
 </div>
 
-<br><br>
+---
 
 <div align="center">
 
-Chess &nbsp;·&nbsp; Judo &nbsp;·&nbsp; Problem Solving &nbsp;·&nbsp; Continuous Learning
+## `07` — CURRENT FOCUS
 
-<sub>French — B2 &nbsp;·&nbsp; English — B2 &nbsp;·&nbsp; Arabic — Native</sub>
+<br>
+
+<table>
+<tr>
+
+<td align="center">
+
+**AI & DATA**
+
+<br>
+
+AI & Data Science specialization  
+Data Analysis · Algorithms
+
+</td>
+
+<td align="center">
+
+**SOFTWARE**
+
+<br>
+
+Full-Stack Engineering  
+Practical Applications
+
+</td>
+
+<td align="center">
+
+**SECURE CODE**
+
+<br>
+
+Security-aware Development  
+Testing
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/●_OPEN_TO_OPPORTUNITIES-071A12?style=for-the-badge&labelColor=071A12&color=10B981" alt="Open to opportunities">
+
+<br><br>
+
+**Software Engineering · Full-Stack Development · Data / AI**
+
+<br>
+
+Île-de-France · Available immediately
 
 </div>
 
-<br><br><br>
+---
 
 <div align="center">
 
-# LET'S BUILD SOMETHING USEFUL.
+# `LET'S BUILD SOMETHING USEFUL.`
 
-Software, data, algorithms and secure engineering.
+### Software · Data · Algorithms · Engineering
 
-<sub>Open to internships · academic collaboration · software projects</sub>
-
-<br><br>
+<br>
 
 <a href="https://meghari-abderrahamane-tarek.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-05070B?style=for-the-badge&logo=netlify&logoColor=00D9FF&labelColor=05070B" height="40">
+<img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-05070B?style=for-the-badge&color=94A3B8&logo=googlechrome&logoColor=white" height="38" alt="Explore portfolio">
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/abderrahmane-tarek-meghari/">
-<img src="https://img.shields.io/badge/LinkedIn-05070B?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=05070B" height="40">
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-05070B?style=for-the-badge&color=0A66C2&logo=linkedin&logoColor=white" height="38" alt="Connect on LinkedIn">
 </a>
-<a href="https://github.com/tarek200614">
-<img src="https://img.shields.io/badge/GitHub-05070B?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=05070B" height="40">
-</a>
+&nbsp;
 <a href="mailto:meghariabderrhmanetarek@gmail.com">
-<img src="https://img.shields.io/badge/Email-05070B?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=05070B" height="40">
+<img src="https://img.shields.io/badge/SEND_EMAIL-05070B?style=for-the-badge&color=F59E0B&logo=gmail&logoColor=white" height="38" alt="Send email">
 </a>
+
+<br><br>
+
+<sub>© Abderrahmane Tarek MEGHARI · Software Engineering · AI & Data Science</sub>
 
 </div>
