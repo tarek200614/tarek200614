@@ -1,6 +1,3 @@
-<div align="center">
-  
-<img src="assests/github/profile.jpg" width="340" alt="Abderrahmane Tarek MEGHARI">
 
 <br><br>
 
