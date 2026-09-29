@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="assests/github/profile.jpg" width="400" alt="Abderrahmane Tarek MEGHARI">
+<img src="assests/github/profile.jpg" width="340" alt="Abderrahmane Tarek MEGHARI">
 
 <br><br>
 
